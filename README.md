@@ -20,3 +20,6 @@
 ). Whether it's discussing the latest advancements in technology or brainstorming ideas for a groundbreaking project, I'm always eager to engage with fellow enthusiasts.
 
 Let's embark on a journey of innovation and discovery together! 🌟
+
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="sejamenath" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
