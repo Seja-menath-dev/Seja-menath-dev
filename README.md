@@ -1,6 +1,6 @@
 # About Me
 
-👋 Greetings! I'm Seja Menath de Silva, a dynamic ML and software engineer hailing from the beautiful island of Sri Lanka. Currently, I reside in Colombo, the vibrant capital city, where I'm deeply engaged in crafting cutting-edge solutions at Meta Colombo.
+👋 Greetings! I'm Seja Menath de Silva, a dynamic ML and software engineer hailing from the beautiful island of Sri Lanka. Currently, I reside in Colombo, the vibrant capital city, where I'm deeply engaged in crafting cutting-edge solutions at Pettah AI
 
 ## Background
 
